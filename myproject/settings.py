@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['port-0-kkutupy-django-128y2k2llvda9o5b.sel5.cloudtype.app', 'l
 
 INSTALLED_APPS = [
     'main',
+    'login',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
