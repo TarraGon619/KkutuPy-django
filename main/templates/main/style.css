@@ -1,0 +1,17 @@
+body{
+    background-color: #E1F7F5;
+}
+
+#logo{
+    display: block;
+    width: 12vw;
+}
+
+.Lobby{
+    position: relative;
+    left:10vw;
+    border-radius: 10px;
+    width: 80vw;
+    height: 75vh;
+    background-color: #fff;
+}
